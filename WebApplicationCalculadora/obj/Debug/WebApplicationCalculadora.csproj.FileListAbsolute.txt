@@ -1,0 +1,57 @@
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll.config
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\WebApplicationCalculadora.pdb
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Helpers.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Mvc.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Razor.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.Razor.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Razor.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Webpages.Razor.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Helpers.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\System.Web.Mvc.xml
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Razor.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Webpages.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Helpers.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\bin\es\System.Web.Mvc.resources.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.dll
+C:\Users\EducaciónIT\Downloads\WebApplicationCalculadora\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.pdb
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll.config
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\WebApplicationCalculadora.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\WebApplicationCalculadora.pdb
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\Microsoft.Web.Infrastructure.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Helpers.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Mvc.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Razor.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.Deployment.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.Razor.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Razor.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.Deployment.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Webpages.Razor.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Helpers.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\System.Web.Mvc.xml
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Razor.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Webpages.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Helpers.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\bin\es\System.Web.Mvc.resources.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csprojResolveAssemblyReference.cache
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csproj.CoreCompileInputs.cache
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.csproj.CopyComplete
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.dll
+C:\Programacion 2\Clase 13\WebApplicationCalculadora V1\WebApplicationCalculadora\obj\Debug\WebApplicationCalculadora.pdb

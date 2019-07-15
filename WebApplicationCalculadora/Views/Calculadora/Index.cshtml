@@ -1,0 +1,36 @@
+﻿@model WebApplicationCalculadora.Models.Calculadora.CalculadoraVM  
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <div>
+            @Html.EditorFor(m => m.OperadorA)
+            @Html.ValidationMessageFor(m => m.OperadorA)
+        </div>
+        <div>
+            <input name="command" type="submit" value="+" />
+            <input name="command" type="submit" value="-" />
+            <input name="command" type="submit" value="*" />
+            <input name="command" type="submit" value="/" />
+        </div>
+        <div>
+            @Html.EditorFor(m => m.OperadorB)
+            @Html.ValidationMessageFor(m => m.OperadorB)
+        </div>
+        <hr />        
+        <div>
+            @Html.DisplayFor(m => m.Resultado)
+        </div>
+        
+    }
+        <div>
+            @*Resumen de errores*@
+            @Html.ValidationSummary()
+        </div>
+</body>
+</html>
